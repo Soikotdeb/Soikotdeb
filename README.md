@@ -10,8 +10,10 @@ I’m a Front End Web developer who is passionate about making error-free websit
 Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
 
 - 🔭 I’m currently working on Ema John Shopping : https://ema-john-with-firebase-a-d5214.web.app/ 
+- - - 🔭 I’m currently working on News Dragon : the-news-dragon-737ff.web.app
 - 🌱 I’m currently learning MongoDb 
 - 💬 Ask me about Web Developement 
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Soikotdeb)  
