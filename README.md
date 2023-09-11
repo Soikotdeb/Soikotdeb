@@ -11,7 +11,8 @@ Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc..
 
 - 🔭 I’m currently working on Ema John Shopping : https://ema-john-with-firebase-a-d5214.web.app/ 
 - 🌱 I’m currently learning MongoDb 
-- 💬 Ask me about Web Developement 
+- 💬 Ask me about Web Developement
+- My Portfolio : https://magenta-pasca-f83c49.netlify.app/
 
 
 
