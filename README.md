@@ -9,7 +9,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 Skills: REACT Js / Mongo Db / JS / HTML / CSS / Bootstrap / Tailwind Css / Etc...
 
-- 🔭 I’m currently working on Ema John Shopping : https://ema-john-with-firebase-a-d5214.web.app/ 
+- 🔭 I’m currently working on techtrove_GadgetBazer :https://techtrove-abe8f.web.app
 - 🌱 I’m currently learning MongoDb 
 - 💬 Ask me about Web Developement
 - My Portfolio : https://magenta-pasca-f83c49.netlify.app/
